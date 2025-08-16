@@ -1,4 +1,5 @@
-# Superstore Sales Data Analysis
+# Superstore Sales Data Analysis-
+
 
 ## Overview
 This project analyzes the Superstore dataset to uncover insights about sales performance, customer behavior, and product trends. It focuses on identifying the most profitable products, regions, and customer segments, as well as understanding sales patterns over time.
