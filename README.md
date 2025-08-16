@@ -28,3 +28,4 @@ This project analyzes the Superstore dataset to uncover insights about sales per
 
 ## Tools & Libraries
 - Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+
