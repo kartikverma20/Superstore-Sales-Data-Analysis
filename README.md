@@ -1,4 +1,4 @@
-# Superstore Sales Data Analysis-
+# Superstore Sales Data Analysis
 
 ## Overview
 This project analyzes the Superstore dataset to uncover insights about sales performance, customer behavior, and product trends. It focuses on identifying the most profitable products, regions, and customer segments, as well as understanding sales patterns over time.
@@ -25,7 +25,3 @@ This project analyzes the Superstore dataset to uncover insights about sales per
 1. Load the dataset (`Superstore.csv`).
 2. Run the Jupyter Notebook or Python script for EDA and visualizations.
 3. Explore generated plots to understand sales and profit patterns.
-
-## Tools & Libraries
-- Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
-
